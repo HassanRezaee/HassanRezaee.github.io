@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Me
+permalink: /about/
+---
+
 # 👋 Hi, I’m Hassan Rezaee
 
 - 👀 I’m a Data Scientist with expertise in AI, statistical modeling, and deep learning.
